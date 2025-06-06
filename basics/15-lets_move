@@ -1,0 +1,5 @@
+#!/bin/bash
+# Moves all files beginning with an uppercase letter to /tmp/u
+
+mv [A-Z]* /tmp/u/ 2>/dev/null
+
