@@ -1,0 +1,3 @@
+#!/bin/bash
+# Deletes all files ending with ~
+rm -f *~
